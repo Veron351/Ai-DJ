@@ -1,0 +1,24 @@
+.heading
+{
+    font-size: 30px;
+    width: 600;
+    margin: 0px;
+    box-shadow: 5px;
+
+}
+.Risha
+{
+  font-size: 20px;
+  color: white;
+}
+.play_button
+{
+    width: 145px;
+  	font-size: 25px;
+}
+
+canvas 
+{
+    border:5px solid white;
+    border-radius:20px;
+}
